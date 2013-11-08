@@ -1,0 +1,10 @@
+.visit_counter{
+    border: 1px solid #2E8AB8;
+    background: #2E8AB8;
+    border-radius: 2px;
+    padding: 5px 0px 5px 0px;
+    color: #FFFFFF;
+    font-weight: bold;
+    width: 30px;
+    text-align: center;
+}
