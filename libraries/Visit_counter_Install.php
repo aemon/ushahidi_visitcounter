@@ -1,10 +1,10 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
- * Performs install/uninstall methods for the Mark Plugin
+ * Performs install/uninstall methods for the VisitCount Plugin
  *
 
  */
-class Mark_Install {
+class Visitcount_Install {
 	
 	/**
 	 * Constructor to load the shared database library

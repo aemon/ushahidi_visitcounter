@@ -1,6 +1,6 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
- * Mark - Load All Events
+ * VisitCount - Load All Events
  **/
 
 class visit_counter {
